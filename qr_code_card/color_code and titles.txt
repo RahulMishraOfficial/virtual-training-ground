@@ -1,0 +1,8 @@
+#d5e1ef  <--- for background 
+#1f3251  <--- for main text
+#7b879d  <--- for paragraph text
+
+
+Improve your front-end skills by building projects  <--- main heading
+
+Scan the QR code to visit Frontend Mentor and take your coding skills to the next level  <--- paragraph text
