@@ -1,3 +1,20 @@
+main BG : hsl(217, 54%, 11%)
+card BG : hsl(216, 50%, 16%)
+line : hsl(215, 32%, 27%)
+Soft blue: hsl(215, 51%, 70%)
+Cyan: hsl(178, 100%, 50%)
+White: hsl(0, 0%, 100%)
+
+Font size (paragraph): 18px
+
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+
+
 Equilibrium #3429  <--- main heading
 Our Equilibrium collection promotes balance and calm.  <--- title
 0.041 ETH  <--- eth status title
