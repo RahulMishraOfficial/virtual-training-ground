@@ -77,3 +77,8 @@ main div span{
 .attribution a{
     text-decoration: none;
 }
+@media (max-width:600px){
+    .attribution{
+        text-align: center;
+    }
+}
